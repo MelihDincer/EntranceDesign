@@ -1,2 +1,1 @@
-# Javascript-Odev-1
-Başlangıç Seviye Frontend Web Development Patikası | Javascript | Odev-1
+## Bu bölümde verilerin dinamik bir şekilde ayarlandığı bir giriş sayfası tasarlanmıştır.
